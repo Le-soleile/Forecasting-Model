@@ -1,7 +1,8 @@
 # 全球航运预抵模型
 
-> 2025 全国大学生交通科技大赛（http://www.nactrans.net/）  
-> 基于船舶历史航行信息的抵达港口预测模型，获得国家三等奖
+> 2025 全国大学生交通科技大赛(http://www.nactrans.net/)
+
+> 基于船舶历史航行信息预测其抵达的目的地和时间，获得国家三等奖
 
 ![项目标识](https://github.com/user-attachments/assets/99f5f4a1-fe43-4e70-b03e-826083a31de8)
 
